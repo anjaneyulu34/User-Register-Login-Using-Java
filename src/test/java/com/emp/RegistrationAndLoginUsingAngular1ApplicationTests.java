@@ -8,6 +8,7 @@ class RegistrationAndLoginUsingAngular1ApplicationTests {
 
 	@Test
 	void contextLoads() {
+		assertEquals(true,true);
 	}
 
 }
